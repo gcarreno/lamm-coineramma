@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="357.13452"
-     inkscape:cy="779.75757"
+     inkscape:cy="860.56977"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,7 +80,9 @@
        x="228.76083"
        y="208.71074"
        id="text4136-3"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
          sodipodi:role="line"
          id="tspan4138-2"
          x="228.76083"
@@ -192,49 +194,65 @@
        width="719.21716"
        height="162.62318"
        x="13.137676"
-       y="229.09357" />
+       y="229.09357"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.90264922;stroke-opacity:1"
        id="rect4348-8"
        width="21.310555"
        height="51.615131"
        x="462.09613"
-       y="265.90979" />
+       y="265.90979"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.0523113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 725.28055,284.69013 23.242487,377.53643"
        id="path4239"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="path4241"
        cx="485.37827"
        cy="287.17166"
-       r="28.789347" />
+       r="28.789347"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.78281397;stroke-opacity:1"
        id="rect4348-1"
        width="21.430389"
        height="38.602982"
        x="643.86365"
-       y="255.74832" />
+       y="255.74832"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="path4241-9"
        cx="636.39612"
        cy="266.46353"
-       r="28.789347" />
+       r="28.789347"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="rect4348"
        width="21.213203"
        height="63.63961"
        x="354.56354"
-       y="268.48383" />
+       y="268.48383"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        d="M 369.7168 274.03906 A 28.789347 28.789347 0 0 0 355.57422 277.79297 L 355.57422 327.88477 A 28.789347 28.789347 0 0 0 369.7168 331.61914 A 28.789347 28.789347 0 0 0 398.50586 302.82812 A 28.789347 28.789347 0 0 0 369.7168 274.03906 z "
-       id="path4241-0" />
+       id="path4241-0"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
     <g
        id="g4233-0"
        transform="matrix(0.99037327,-0.13842246,0.13842246,0.99037327,67.949883,233.33205)"
@@ -296,6 +314,8 @@
        width="21.363655"
        height="45.607315"
        x="556.01379"
-       y="258.81216" />
+       y="258.81216"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
   </g>
 </svg>
