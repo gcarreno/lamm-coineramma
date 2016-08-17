@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="MainSketch.svg">
+   sodipodi:docname="MainSketch.svg"
+   inkscape:export-filename="/home/gcarreno/Projects/lamm-coineramma/MainSketch.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="373.81792"
-     inkscape:cy="540.16497"
+     inkscape:zoom="0.7"
+     inkscape:cx="380.67022"
+     inkscape:cy="550.11275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"

@@ -1,6 +1,10 @@
 # lamm-coineramma
 Coin box with mechanical whimsical effects
 
+##Layout of the coineramma
+
+![Crude sketch of coineramma](MainSketch.png)
+
 ##Section 1
 
 [Section 1](Section-1/README.md) is a crank operated lift. More details on it's [README](Section-1/README.md) file.
