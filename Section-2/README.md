@@ -13,3 +13,6 @@ While quite hard to explain in words, it's quite simple the way it works:
    The smallest coin get's sorted first, and falls into it's alloted shute, through a vertical slot.  
    This slot is shaped in a way that it prevents bigger coins to get stuck and allows it to continue to the next diameter selection.
 3. Each slot will then have a path towards the left or the right, guiding it to a different whimsical area in [Section 3](../Section-3/README.md).
+4. Because an image is better than a 1,000 words:  
+   ![Top view of seperator](TopView.png)
+   ![Front view of seperator]()
