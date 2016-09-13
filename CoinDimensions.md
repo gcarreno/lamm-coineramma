@@ -1,4 +1,5 @@
-==Coin Dimensions
+#Coin Dimensions
+
 | Denomination | Diameter (mm) | Thickness (mm) |
 | ------------ | ------------- | -------------- |
 | Two Pounds   | 28.4          | 2.5            |
