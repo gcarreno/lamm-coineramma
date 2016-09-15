@@ -2,5 +2,5 @@
 
 | Size  | Dimensions (mm)|
 | ----- | -------------: |
-| Full  | 255x255 mm     |
-| Third | 255x085 mm     |
+| Full  | 255x255        |
+| Third | 255x085        |
