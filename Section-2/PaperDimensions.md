@@ -1,4 +1,4 @@
-=Paper Dimensions
+#Paper Dimensions
 
 | Size  | Dimensions |
 | ----- | ---------: |
